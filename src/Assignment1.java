@@ -1,6 +1,6 @@
 public class Assignment1 {
     public static void main(String[] args) {
-        String[] Studentname = {"Mani", "Rahul", "Shekar", "Santosh", "Murali", "Ravi", "Ram", "Raj", "Mike", "Wiliam"};
+        String[] Studentname = {"James", "Rahul", "Shekar", "Santosh", "Murali", "Ravi", "Ram", "Raj", "Mike", "Wiliam"};
         String Name = "Rahul";
         byte Age = 27;
         short YearsofExp = 10;

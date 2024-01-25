@@ -7,6 +7,7 @@ public class Message {
 
     public void dynamicMethod() {
         System.out.println("it is dynamic method");
+        System.out.println("it is dynamic method");
     }
 
     public static void main(String[] args) {

@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18df6f5c-f19d-432d-af49-14545a421409" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assignment10/AbstractClassAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment10/AbstractClassPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment10/AbstractClassShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment11/StringAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment11/StringAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment11/StringCountWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment11/StringPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AbstractClassAnimal.executor": "Run",
+    "Application.AbstractClassPerson.executor": "Run",
     "Application.AbstractClassShape.executor": "Run",
     "Application.Assignment1.executor": "Run",
     "Application.Assignment2.executor": "Run",
@@ -55,6 +57,10 @@
     "Application.Person.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.RomanToNumber.executor": "Run",
+    "Application.StringAdd.executor": "Run",
+    "Application.StringAnagram.executor": "Run",
+    "Application.StringCountWord.executor": "Run",
+    "Application.StringPalindrome.executor": "Run",
     "Application.StringToFloat.executor": "Run",
     "Application.SumOfEvenOdd.executor": "Run",
     "Application.TrafficLight.executor": "Run",
@@ -75,7 +81,7 @@
       <recent name="Constructor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AbstractClassPerson">
+  <component name="RunManager">
     <configuration name="AbstractClassAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment10.AbstractClassAnimal" />
       <module name="Java Assignments" />
